@@ -21,11 +21,7 @@
 ![Square Array Elements Using Pointer Output](https://github.com/sakinasendhi52/Practical-Exam/blob/main/square_array_using_pointer_output.png?raw=true)
 
 <h4>5. Print a below pattern using nested for loop in C language:
-1
-4 4
-9 9 9
-16 16 16 16
-25 25 25 25 25</h4>
+1<br>4 4<br>9 9 9<br>16 16 16 16<br>25 25 25 25 25</h4>
 <h4>Output : </h4>
 
 ![Pattern Output](https://github.com/sakinasendhi52/Practical-Exam/blob/main/pattern_output.png?raw=true)
